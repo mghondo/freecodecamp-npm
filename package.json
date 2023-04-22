@@ -3,7 +3,7 @@
 	"author": "Morgan Hondros",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/example": "1.1.0"
+		"@freecodecamp/example": "1.2.13"
 	},
 	"description": "Using NPM for backend development",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
