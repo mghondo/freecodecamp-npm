@@ -4,6 +4,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "Using NPM for backend development",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
