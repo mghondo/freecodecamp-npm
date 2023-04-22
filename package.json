@@ -8,6 +8,7 @@
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"license": "HONDROS MGT",
 	"main": "server.js",
+	"version": "2.3.15",
 	"scripts": {
 		"start": "node server.js"
 	},
